@@ -1,0 +1,12 @@
+11
+Instructions: 
+The Missing Piece is a game where a photo is concealed by a black screen and the player has to guess what the picture is.
+The game is designed for one player.
+For one player, there are a series of 20 questions which you must respond to. 
+For levels 1 through 10, you will receive four options to select from, and you must click, with the mouse, the answer (button) you believe is correct. 
+If the selected option is correct, you will receive ten points. If not, five points will be deducted.
+From levels 11 to 20, you have five guesses. You must type your guess into the textfield which appears on the screen. 
+There is one corrrect answer (capitalizations do NOT matter). 
+Once you type the answer in the textfield, press the "Check" button once you finish typing your answer. 
+Correct answers will be awarded 10 times the number of guesses you have left (thus, if you guess with 4 guesses remaining, you will receive 4 * 10 = 40 points).
+The maximum number of points in levels 11 to 20 is 40 points.  
